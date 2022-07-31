@@ -51,5 +51,4 @@
 - vite-plugin-imageminで実行させてます
 - 不要な場合はvite.config.jsの「viteImagemin」の記述部分とプラグインvite-plugin-imageminを削除してください
 
-# -CodeUps_1cw_sk-Vite_sp-pc
 # CodeUps_1cw_sk-Vite_sp-pc
