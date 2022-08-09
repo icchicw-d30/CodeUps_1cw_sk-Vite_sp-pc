@@ -7,7 +7,8 @@ import ejs from 'vite-plugin-ejs-engine';
 
 // HTMLの複数出力を自動化する
 //./src配下のファイル一式を取得
-const fs = require('fs');
+//const fs = require('fs');
+import fs from 'fs';
 const fileNameList = fs.readdirSync(resolve(__dirname, './src/'));
 
 //htmlファイルのみ抽出
